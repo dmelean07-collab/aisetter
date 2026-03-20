@@ -49,7 +49,7 @@ def handle_message():
 
     print(f"[reply] {reply}")
 
-    # ManyChat reads this response and sends the text back to the subscriber
+       # ManyChat reads this response and sends the text back to the subscriber
     return jsonify({
         "version": "v2",
         "content": {
@@ -58,7 +58,9 @@ def handle_message():
                     "type": "text",
                     "text": reply
                 }
-            ]
+            ],
+            "actions": [],
+            "quick_replies": []
         }
     })
 
