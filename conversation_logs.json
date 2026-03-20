@@ -1,0 +1,17 @@
+{
+  "live_test": {
+    "lead_source": "instagram_dm",
+    "first_message": "yo",
+    "first_contact_at": "2026-03-20T15:10:50.212686",
+    "response_time_seconds": 0,
+    "last_updated": "2026-03-20T15:10:51.871011",
+    "qualification_status": "pending",
+    "disqualification_reason": "",
+    "conversation_summary": "",
+    "next_step": "",
+    "call_booked": false,
+    "call_datetime": "",
+    "lead_temperature": "cold",
+    "notable_signals": ""
+  }
+}

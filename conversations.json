@@ -1,0 +1,28 @@
+{
+  "live_test": [
+    {
+      "role": "user",
+      "content": "yo"
+    },
+    {
+      "role": "assistant",
+      "content": "Hey! Good to hear from you. What's going on with your coaching business right now?"
+    },
+    {
+      "role": "user",
+      "content": "idk man shit kinda going sideways"
+    },
+    {
+      "role": "assistant",
+      "content": "Yeah, I hear that. What's the main thing that's making it feel sideways? Client stuff, revenue, or something else?"
+    },
+    {
+      "role": "user",
+      "content": "i dont get enough clients and shit"
+    },
+    {
+      "role": "assistant",
+      "content": "That's the thing that stops most coaches, so you're not alone. How many clients do you have right now, and what's your monthly revenue looking like?"
+    }
+  ]
+}

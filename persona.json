@@ -1,0 +1,17 @@
+{
+  "owner_name": "Marcus Williams",
+  "business_name": "Marcus's Growth Lab",
+  "target_audience": "online coaches who want to scale past $10k/month",
+  "specific_problem": "not having a consistent, predictable way to get clients",
+  "specific_outcome": "a client acquisition system that generates $10k+ months consistently",
+  "owner_backstory": "Started as a broke coach making $2k a month. Spent two years figuring out what actually works for getting clients without paid ads. Now runs a multiple six-figure coaching business and teaches other coaches to do the same. Has helped over 80 coaches hit their first $10k month.",
+  "qualification_criteria": [
+    "They have a real, specific problem with getting clients or scaling revenue",
+    "They have real intent to fix it now — not someday, not next quarter",
+    "They have some existing revenue or the means to invest in a solution",
+    "They are the decision maker or can get to one fast"
+  ],
+  "booking_link": "https://calendly.com/example/strategy-call",
+  "crm_system": "Notion",
+  "review_cadence": "daily"
+}
